@@ -9,3 +9,6 @@ jobs:
        - name: hello world 
          run: |
            echo "Hello world"
+       - name: Run Python Script 
+         run: | 
+           python3 ci.py

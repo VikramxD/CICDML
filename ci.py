@@ -1,3 +1,3 @@
 import wandb
 
-print(f'The version of wand -> {wandb.__version__}')
+print(f'The version of wandb -> {wandb.__version__}')
